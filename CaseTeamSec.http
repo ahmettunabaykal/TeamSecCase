@@ -1,0 +1,6 @@
+@CaseTeamSec_HostAddress = http://localhost:5058
+
+GET {{CaseTeamSec_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
